@@ -13,5 +13,3 @@
 </p>
 
 ###
-
-![Profile view counter](https://komarev.com/ghpvc/?username=Murc13lag0)
