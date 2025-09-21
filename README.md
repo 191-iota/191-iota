@@ -1,1 +1,1 @@
-<img src="funny.png"/>
+
