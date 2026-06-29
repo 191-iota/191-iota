@@ -1,1 +1,1 @@
-I produce solutions by pinpointing conceptual gaps in established technology.
+I produce software by pinpointing conceptual gaps in established technology.
